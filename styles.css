@@ -1,0 +1,50 @@
+article {
+    background-color:#a3daff;
+    margin: 1rem;
+    padding: .5rem;
+    border-radius: 3rem;
+    font-family: Courier New, Courier, monospace;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+header, footer {
+    background-color: rgb(167, 167, 167)
+}
+
+body {
+    background-color: #fffda3;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color: white;
+    display: block;
+    border: 3px solid pink;
+    padding: 1rem;
+    width: 10rem;
+    text-align: center;
+}
+
+main {
+    background-color: pink;
+    padding: 1rem;
+}
+
+#part3 {
+    
+}
+
+.main-article{
+    display: block;
+    border: 5px dotted #b5ffa3;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: 3rem;
+    size: 75%;
+    background-color: white;
+    border-radius: 3rem;
+}
